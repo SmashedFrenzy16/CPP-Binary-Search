@@ -1,2 +1,2 @@
 # CPP Binary Search
-This is the Binary Search Algorithm made in C++.
+This is the Binary Search Algorithm made in C++. Compiled version included.
